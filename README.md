@@ -13,6 +13,19 @@ Curated list of Open Source project focused on LLM security
 - [promptmap](https://github.com/utkusen/promptmap) ![Stars](https://img.shields.io/github/stars/utkusen/promptmap) - automatically tests prompt injection attacks on ChatGPT instances.
 - [rebuff](https://github.com/protectai/rebuff) ![Stars](https://img.shields.io/github/stars/protectai/rebuff) - LLM Prompt Injection Detector.
 
+## By [OWASP Top 10 for LLM Application](https://llmtop10.com/)
+
+### LLM01: [Prompt Injection](https://llmtop10.com/llm01/)
+### LLM02: [Insecure Output Handling](https://llmtop10.com/llm02/)
+### LLM03: [Training Data Poisoning](https://llmtop10.com/llm03/)
+### LLM04: [Model Denial of Service](https://llmtop10.com/llm04/)
+### LLM05: [Supply Chain Vulnerabilities](https://llmtop10.com/llm05/)
+### LLM06: [Sensitive Information Disclosure](https://llmtop10.com/llm06/)
+### LLM07: [Insecure Plugin Design](https://llmtop10.com/llm07/)
+### LLM08: [Excessive Agency](https://llmtop10.com/llm08/)
+### LLM09: [Overreliance](https://llmtop10.com/llm09/)
+### LLM10: [Model Theft](https://llmtop10.com/llm10/)
+
 ## Resources
 - [awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) ![Stars](https://img.shields.io/github/stars/corca-ai/awesome-llm-security) -  A curation of awesome tools, documents and projects about LLM Security. 
 - [llm-security](https://github.com/llmsecnet/llmsec-site) ![Stars](https://img.shields.io/github/stars/llmsecnet/llmsec-site) - https://llmsecurity.net/ - large language model security content - research, papers, and news
