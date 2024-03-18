@@ -17,6 +17,7 @@ Curated list of Open Source project focused on LLM security
 
 ### LLM01: [Prompt Injection](https://llmtop10.com/llm01/)
 - [Garak](https://github.com/leondz/garak/) ![Stars](https://img.shields.io/github/stars/leondz/garak)
+- [HouYi](https://github.com/LLMSecurity/HouYi) ![Stars](https://img.shields.io/github/stars/LLMSecurity/HouYi)
   
 ### LLM02: [Insecure Output Handling](https://llmtop10.com/llm02/)
 ### LLM03: [Training Data Poisoning](https://llmtop10.com/llm03/)
