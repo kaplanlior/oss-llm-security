@@ -20,6 +20,7 @@ Curated list of Open Source project focused on LLM security
 - [HouYi](https://github.com/LLMSecurity/HouYi) ![Stars](https://img.shields.io/github/stars/LLMSecurity/HouYi)
 - [langkit](https://github.com/whylabs/langkit) ![Stars](https://img.shields.io/github/stars/whylabs/langkit)
 - [llm-guard](https://github.com/protectai/llm-guard) ![Stars](https://img.shields.io/github/stars/protectai/llm-guard)
+- [llm-security](https://github.com/dropbox/llm-security) ![Stars](https://img.shields.io/github/stars/dropbox/llm-security)
   
 ### LLM02: [Insecure Output Handling](https://llmtop10.com/llm02/)
 - [llm-guard](https://github.com/protectai/llm-guard) ![Stars](https://img.shields.io/github/stars/protectai/llm-guard)
@@ -29,6 +30,7 @@ Curated list of Open Source project focused on LLM security
 ### LLM05: [Supply Chain Vulnerabilities](https://llmtop10.com/llm05/)
 ### LLM06: [Sensitive Information Disclosure](https://llmtop10.com/llm06/)
 - [Garak](https://github.com/leondz/garak/) ![Stars](https://img.shields.io/github/stars/leondz/garak)
+- [llm-security](https://github.com/greshake/llm-security) ![Stars](https://img.shields.io/github/stars/greshake/llm-security)
 
 ### LLM07: [Insecure Plugin Design](https://llmtop10.com/llm07/)
 ### LLM08: [Excessive Agency](https://llmtop10.com/llm08/)
