@@ -16,11 +16,15 @@ Curated list of Open Source project focused on LLM security
 ## By [OWASP Top 10 for LLM Application](https://llmtop10.com/)
 
 ### LLM01: [Prompt Injection](https://llmtop10.com/llm01/)
+- [Garak](https://github.com/leondz/garak/) ![Stars](https://img.shields.io/github/stars/leondz/garak)
+  
 ### LLM02: [Insecure Output Handling](https://llmtop10.com/llm02/)
 ### LLM03: [Training Data Poisoning](https://llmtop10.com/llm03/)
 ### LLM04: [Model Denial of Service](https://llmtop10.com/llm04/)
 ### LLM05: [Supply Chain Vulnerabilities](https://llmtop10.com/llm05/)
 ### LLM06: [Sensitive Information Disclosure](https://llmtop10.com/llm06/)
+- [Garak](https://github.com/leondz/garak/) ![Stars](https://img.shields.io/github/stars/leondz/garak)
+
 ### LLM07: [Insecure Plugin Design](https://llmtop10.com/llm07/)
 ### LLM08: [Excessive Agency](https://llmtop10.com/llm08/)
 ### LLM09: [Overreliance](https://llmtop10.com/llm09/)
