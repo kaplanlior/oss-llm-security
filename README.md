@@ -19,8 +19,11 @@ Curated list of Open Source project focused on LLM security
 - [Garak](https://github.com/leondz/garak/) ![Stars](https://img.shields.io/github/stars/leondz/garak)
 - [HouYi](https://github.com/LLMSecurity/HouYi) ![Stars](https://img.shields.io/github/stars/LLMSecurity/HouYi)
 - [langkit](https://github.com/whylabs/langkit) ![Stars](https://img.shields.io/github/stars/whylabs/langkit)
+- [llm-guard](https://github.com/protectai/llm-guard) ![Stars](https://img.shields.io/github/stars/protectai/llm-guard)
   
 ### LLM02: [Insecure Output Handling](https://llmtop10.com/llm02/)
+- [llm-guard](https://github.com/protectai/llm-guard) ![Stars](https://img.shields.io/github/stars/protectai/llm-guard)
+
 ### LLM03: [Training Data Poisoning](https://llmtop10.com/llm03/)
 ### LLM04: [Model Denial of Service](https://llmtop10.com/llm04/)
 ### LLM05: [Supply Chain Vulnerabilities](https://llmtop10.com/llm05/)
