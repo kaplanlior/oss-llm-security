@@ -3,6 +3,7 @@ Curated list of Open Source project focused on LLM security
 
 ## Tools / projects
 
+- [fast-llm-security](https://github.com/ZenGuard-AI/fast-llm-security) ![Stars](https://img.shields.io/github/stars/ZenGuard-AI/fast-llm-security) - The fastest && easiest LLM security and privacy guardrails for GenAI apps.
 - [Garak](https://github.com/leondz/garak/) ![Stars](https://img.shields.io/github/stars/leondz/garak) -  LLM vulnerability scanner. garak checks if an LLM can be made to fail in an way we don't want. garak probes for hallucination, data leakage, prompt injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses. If you know nmap, it's nmap for LLMs.
 - [HouYi](https://github.com/LLMSecurity/HouYi) ![Stars](https://img.shields.io/github/stars/LLMSecurity/HouYi) - The automated prompt injection framework for LLM-integrated applications.
 - [langkit](https://github.com/whylabs/langkit) ![Stars](https://img.shields.io/github/stars/whylabs/langkit)- An open-source toolkit for monitoring Large Language Models (LLMs). Extracts signals from prompts & responses, ensuring safety & security.
@@ -18,6 +19,7 @@ Curated list of Open Source project focused on LLM security
 ## By [OWASP Top 10 for LLM Application](https://llmtop10.com/)
 
 ### LLM01: [Prompt Injection](https://llmtop10.com/llm01/)
+- [fast-llm-security](https://github.com/ZenGuard-AI/fast-llm-security) ![Stars](https://img.shields.io/github/stars/ZenGuard-AI/fast-llm-security)
 - [Garak](https://github.com/leondz/garak/) ![Stars](https://img.shields.io/github/stars/leondz/garak)
 - [HouYi](https://github.com/LLMSecurity/HouYi) ![Stars](https://img.shields.io/github/stars/LLMSecurity/HouYi)
 - [langkit](https://github.com/whylabs/langkit) ![Stars](https://img.shields.io/github/stars/whylabs/langkit)
@@ -38,6 +40,7 @@ Curated list of Open Source project focused on LLM security
 ### LLM04: [Model Denial of Service](https://llmtop10.com/llm04/)
 ### LLM05: [Supply Chain Vulnerabilities](https://llmtop10.com/llm05/)
 ### LLM06: [Sensitive Information Disclosure](https://llmtop10.com/llm06/)
+- [fast-llm-security](https://github.com/ZenGuard-AI/fast-llm-security) ![Stars](https://img.shields.io/github/stars/ZenGuard-AI/fast-llm-security)
 - [Garak](https://github.com/leondz/garak/) ![Stars](https://img.shields.io/github/stars/leondz/garak)
 - [llm-security](https://github.com/greshake/llm-security) ![Stars](https://img.shields.io/github/stars/greshake/llm-security)
 - [VibraniumDome](https://github.com/genia-dev/vibraniumdome) ![Stars](https://img.shields.io/github/stars/genia-dev/vibraniumdome)
