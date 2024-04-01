@@ -12,6 +12,7 @@ Curated list of Open Source project focused on LLM security
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ![Stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama) - Set of tools to assess and improve LLM security. 
 - [promptmap](https://github.com/utkusen/promptmap) ![Stars](https://img.shields.io/github/stars/utkusen/promptmap) - automatically tests prompt injection attacks on ChatGPT instances.
 - [rebuff](https://github.com/protectai/rebuff) ![Stars](https://img.shields.io/github/stars/protectai/rebuff) - LLM Prompt Injection Detector.
+- [vibraniumdome](https://github.com/genia-dev/vibraniumdome) ![Stars](https://img.shields.io/github/stars/genia-dev/vibraniumdome) -  LLM Security Platform.
 
 ## By [OWASP Top 10 for LLM Application](https://llmtop10.com/)
 
@@ -24,10 +25,12 @@ Curated list of Open Source project focused on LLM security
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ![Stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama)
 - [promptmap](https://github.com/utkusen/promptmap) ![Stars](https://img.shields.io/github/stars/utkusen/promptmap)
 - [rebuff](https://github.com/protectai/rebuff) ![Stars](https://img.shields.io/github/stars/protectai/rebuff)
+- [VibraniumDome](https://github.com/genia-dev/vibraniumdome) ![Stars](https://img.shields.io/github/stars/genia-dev/vibraniumdome)
   
 ### LLM02: [Insecure Output Handling](https://llmtop10.com/llm02/)
 - [llm-guard](https://github.com/protectai/llm-guard) ![Stars](https://img.shields.io/github/stars/protectai/llm-guard)
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ![Stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama)
+- [VibraniumDome](https://github.com/genia-dev/vibraniumdome) ![Stars](https://img.shields.io/github/stars/genia-dev/vibraniumdome)
 
 ### LLM03: [Training Data Poisoning](https://llmtop10.com/llm03/)
 ### LLM04: [Model Denial of Service](https://llmtop10.com/llm04/)
@@ -35,6 +38,7 @@ Curated list of Open Source project focused on LLM security
 ### LLM06: [Sensitive Information Disclosure](https://llmtop10.com/llm06/)
 - [Garak](https://github.com/leondz/garak/) ![Stars](https://img.shields.io/github/stars/leondz/garak)
 - [llm-security](https://github.com/greshake/llm-security) ![Stars](https://img.shields.io/github/stars/greshake/llm-security)
+- [VibraniumDome](https://github.com/genia-dev/vibraniumdome) ![Stars](https://img.shields.io/github/stars/genia-dev/vibraniumdome)
 
 ### LLM07: [Insecure Plugin Design](https://llmtop10.com/llm07/)
 ### LLM08: [Excessive Agency](https://llmtop10.com/llm08/)
