@@ -9,6 +9,7 @@ Curated list of Open Source project focused on LLM security
 - [llm-guard](https://github.com/protectai/llm-guard) ![Stars](https://img.shields.io/github/stars/protectai/llm-guard) - The Security Toolkit for LLM Interactions. LLM Guard by Protect AI is a comprehensive tool designed to fortify the security of Large Language Models (LLMs).
 - [llm-security](https://github.com/dropbox/llm-security) ![Stars](https://img.shields.io/github/stars/dropbox/llm-security) - Dropbox LLM Security research code and results. This repository contains scripts and related documentation that demonstrate attacks against large language models using repeated character sequences. These techniques can be used to execute prompt injection on content-constrained LLM queries.
 - [llm-security](https://github.com/greshake/llm-security) ![Stars](https://img.shields.io/github/stars/greshake/llm-security)  -  New ways of breaking app-integrated LLMs
+- [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection) ![Stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection) - Prompt injection attacks and defenses in LLM-integrated applications
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ![Stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama) - Set of tools to assess and improve LLM security. 
 - [promptmap](https://github.com/utkusen/promptmap) ![Stars](https://img.shields.io/github/stars/utkusen/promptmap) - automatically tests prompt injection attacks on ChatGPT instances.
 - [rebuff](https://github.com/protectai/rebuff) ![Stars](https://img.shields.io/github/stars/protectai/rebuff) - LLM Prompt Injection Detector.
@@ -22,6 +23,7 @@ Curated list of Open Source project focused on LLM security
 - [langkit](https://github.com/whylabs/langkit) ![Stars](https://img.shields.io/github/stars/whylabs/langkit)
 - [llm-guard](https://github.com/protectai/llm-guard) ![Stars](https://img.shields.io/github/stars/protectai/llm-guard)
 - [llm-security](https://github.com/dropbox/llm-security) ![Stars](https://img.shields.io/github/stars/dropbox/llm-security)
+- [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection) ![Stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection)
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ![Stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama)
 - [promptmap](https://github.com/utkusen/promptmap) ![Stars](https://img.shields.io/github/stars/utkusen/promptmap)
 - [rebuff](https://github.com/protectai/rebuff) ![Stars](https://img.shields.io/github/stars/protectai/rebuff)
