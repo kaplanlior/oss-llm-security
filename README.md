@@ -12,6 +12,7 @@ Curated list of Open Source project focused on LLM security
 - [llm-security](https://github.com/dropbox/llm-security) ![Stars](https://img.shields.io/github/stars/dropbox/llm-security) - Dropbox LLM Security research code and results. This repository contains scripts and related documentation that demonstrate attacks against large language models using repeated character sequences. These techniques can be used to execute prompt injection on content-constrained LLM queries.
 - [llm-security](https://github.com/greshake/llm-security) ![Stars](https://img.shields.io/github/stars/greshake/llm-security)  -  New ways of breaking app-integrated LLMs
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection) ![Stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection) - Prompt injection attacks and defenses in LLM-integrated applications
+- [plexiglass](https://github.com/safellama/plexiglass) ![Stars](https://img.shields.io/github/stars/safellama/plexiglass) - A toolkit for detecting and protecting against vulnerabilities in Large Language Models (LLMs). 
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ![Stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama) - Set of tools to assess and improve LLM security. 
 - [promptmap](https://github.com/utkusen/promptmap) ![Stars](https://img.shields.io/github/stars/utkusen/promptmap) - automatically tests prompt injection attacks on ChatGPT instances.
 - [rebuff](https://github.com/protectai/rebuff) ![Stars](https://img.shields.io/github/stars/protectai/rebuff) - LLM Prompt Injection Detector.
@@ -29,6 +30,7 @@ Curated list of Open Source project focused on LLM security
 - [llm-guard](https://github.com/protectai/llm-guard) ![Stars](https://img.shields.io/github/stars/protectai/llm-guard)
 - [llm-security](https://github.com/dropbox/llm-security) ![Stars](https://img.shields.io/github/stars/dropbox/llm-security)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection) ![Stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection)
+- [plexiglass](https://github.com/safellama/plexiglass) ![Stars](https://img.shields.io/github/stars/safellama/plexiglass)
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ![Stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama)
 - [promptmap](https://github.com/utkusen/promptmap) ![Stars](https://img.shields.io/github/stars/utkusen/promptmap)
 - [rebuff](https://github.com/protectai/rebuff) ![Stars](https://img.shields.io/github/stars/protectai/rebuff)
@@ -47,6 +49,7 @@ Curated list of Open Source project focused on LLM security
 - [fast-llm-security](https://github.com/ZenGuard-AI/fast-llm-security) ![Stars](https://img.shields.io/github/stars/ZenGuard-AI/fast-llm-security)
 - [Garak](https://github.com/leondz/garak/) ![Stars](https://img.shields.io/github/stars/leondz/garak)
 - [llm-security](https://github.com/greshake/llm-security) ![Stars](https://img.shields.io/github/stars/greshake/llm-security)
+- [plexiglass](https://github.com/safellama/plexiglass) ![Stars](https://img.shields.io/github/stars/safellama/plexiglass)
 - [VibraniumDome](https://github.com/genia-dev/vibraniumdome) ![Stars](https://img.shields.io/github/stars/genia-dev/vibraniumdome)
 
 ### LLM07: [Insecure Plugin Design](https://llmtop10.com/llm07/)
