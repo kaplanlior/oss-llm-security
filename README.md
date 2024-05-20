@@ -17,6 +17,7 @@ Curated list of Open Source project focused on LLM security
 - [ps-fuzz](https://github.com/prompt-security/ps-fuzz) ![Stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz) - Make your GenAI Apps Safe & Secure 🚀 Test & harden your system prompt
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ![Stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama) - Set of tools to assess and improve LLM security. 
 - [promptmap](https://github.com/utkusen/promptmap) ![Stars](https://img.shields.io/github/stars/utkusen/promptmap) - automatically tests prompt injection attacks on ChatGPT instances.
+- [PyRIT](https://github.com/Azure/PyRIT) ![Stars](https://img.shields.io/github/stars/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.
 - [rebuff](https://github.com/protectai/rebuff) ![Stars](https://img.shields.io/github/stars/protectai/rebuff) - LLM Prompt Injection Detector.
 - [vibraniumdome](https://github.com/genia-dev/vibraniumdome) ![Stars](https://img.shields.io/github/stars/genia-dev/vibraniumdome) -  LLM Security Platform.
 - [vigil-llm](https://github.com/deadbits/vigil-llm) ![Stars](https://img.shields.io/github/stars/deadbits/vigil-llm) -⚡ Vigil ⚡ Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs.
@@ -36,6 +37,7 @@ Curated list of Open Source project focused on LLM security
 - [plexiglass](https://github.com/safellama/plexiglass) ![Stars](https://img.shields.io/github/stars/safellama/plexiglass)
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ![Stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama)
 - [ps-fuzz](https://github.com/prompt-security/ps-fuzz) ![Stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz)
+- [PyRIT](https://github.com/Azure/PyRIT) ![Stars](https://img.shields.io/github/stars/Azure/PyRIT)
 - [promptmap](https://github.com/utkusen/promptmap) ![Stars](https://img.shields.io/github/stars/utkusen/promptmap)
 - [rebuff](https://github.com/protectai/rebuff) ![Stars](https://img.shields.io/github/stars/protectai/rebuff)
 - [VibraniumDome](https://github.com/genia-dev/vibraniumdome) ![Stars](https://img.shields.io/github/stars/genia-dev/vibraniumdome)
