@@ -12,6 +12,7 @@ Curated list of Open Source project focused on LLM security
 - [llm-guard](https://github.com/protectai/llm-guard) ![Stars](https://img.shields.io/github/stars/protectai/llm-guard) - The Security Toolkit for LLM Interactions. LLM Guard by Protect AI is a comprehensive tool designed to fortify the security of Large Language Models (LLMs).
 - [llm-security](https://github.com/dropbox/llm-security) ![Stars](https://img.shields.io/github/stars/dropbox/llm-security) - Dropbox LLM Security research code and results. This repository contains scripts and related documentation that demonstrate attacks against large language models using repeated character sequences. These techniques can be used to execute prompt injection on content-constrained LLM queries.
 - [llm-security](https://github.com/greshake/llm-security) ![Stars](https://img.shields.io/github/stars/greshake/llm-security)  -  New ways of breaking app-integrated LLMs
+- [modelscan](https://github.com/protectai/modelscan) ![Stars](https://img.shields.io/github/stars/protectai/modelscan) - Protection against Model Serialization Attacks
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection) ![Stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection) - Prompt injection attacks and defenses in LLM-integrated applications
 - [plexiglass](https://github.com/safellama/plexiglass) ![Stars](https://img.shields.io/github/stars/safellama/plexiglass) - A toolkit for detecting and protecting against vulnerabilities in Large Language Models (LLMs). 
 - [ps-fuzz](https://github.com/prompt-security/ps-fuzz) ![Stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz) - Make your GenAI Apps Safe & Secure 🚀 Test & harden your system prompt
@@ -51,6 +52,8 @@ Curated list of Open Source project focused on LLM security
 ### LLM03: [Training Data Poisoning](https://llmtop10.com/llm03/)
 ### LLM04: [Model Denial of Service](https://llmtop10.com/llm04/)
 ### LLM05: [Supply Chain Vulnerabilities](https://llmtop10.com/llm05/)
+- [modelscan](https://github.com/protectai/modelscan) ![Stars](https://img.shields.io/github/stars/protectai/modelscan)
+
 ### LLM06: [Sensitive Information Disclosure](https://llmtop10.com/llm06/)
 - [fast-llm-security](https://github.com/ZenGuard-AI/fast-llm-security) ![Stars](https://img.shields.io/github/stars/ZenGuard-AI/fast-llm-security)
 - [Garak](https://github.com/leondz/garak/) ![Stars](https://img.shields.io/github/stars/leondz/garak)
