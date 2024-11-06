@@ -23,7 +23,7 @@ Curated list of Open Source project focused on LLM security
 - [vibraniumdome](https://github.com/genia-dev/vibraniumdome) ![Stars](https://img.shields.io/github/stars/genia-dev/vibraniumdome) -  LLM Security Platform.
 - [vigil-llm](https://github.com/deadbits/vigil-llm) ![Stars](https://img.shields.io/github/stars/deadbits/vigil-llm) -⚡ Vigil ⚡ Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs.
 
-## By [OWASP Top 10 for LLM Application](https://llmtop10.com/)
+## By [OWASP Top 10 for LLM Applications](https://llmtop10.com/)
 
 ### LLM01: [Prompt Injection](https://llmtop10.com/llm01/)
 - [EasyJailbreak](https://github.com/EasyJailbreak/EasyJailbreak) ![Stars](https://img.shields.io/github/stars/EasyJailbreak/EasyJailbreak)
