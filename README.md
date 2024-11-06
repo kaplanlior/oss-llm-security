@@ -23,9 +23,9 @@ Curated list of Open Source project focused on LLM security
 - [vibraniumdome](https://github.com/genia-dev/vibraniumdome) ![Stars](https://img.shields.io/github/stars/genia-dev/vibraniumdome) -  LLM Security Platform.
 - [vigil-llm](https://github.com/deadbits/vigil-llm) ![Stars](https://img.shields.io/github/stars/deadbits/vigil-llm) -⚡ Vigil ⚡ Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs.
 
-## By [OWASP Top 10 for LLM Applications](https://llmtop10.com/)
+## By [OWASP Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/)
 
-### LLM01: [Prompt Injection](https://llmtop10.com/llm01/)
+### LLM01: [Prompt Injection](https://genai.owasp.org/llmrisk/llm01-prompt-injection/)
 - [EasyJailbreak](https://github.com/EasyJailbreak/EasyJailbreak) ![Stars](https://img.shields.io/github/stars/EasyJailbreak/EasyJailbreak)
 - [fast-llm-security](https://github.com/ZenGuard-AI/fast-llm-security) ![Stars](https://img.shields.io/github/stars/ZenGuard-AI/fast-llm-security)
 - [Garak](https://github.com/leondz/garak/) ![Stars](https://img.shields.io/github/stars/leondz/garak)
@@ -44,27 +44,27 @@ Curated list of Open Source project focused on LLM security
 - [VibraniumDome](https://github.com/genia-dev/vibraniumdome) ![Stars](https://img.shields.io/github/stars/genia-dev/vibraniumdome)
 - [vigil-llm](https://github.com/deadbits/vigil-llm) ![Stars](https://img.shields.io/github/stars/deadbits/vigil-llm)
   
-### LLM02: [Insecure Output Handling](https://llmtop10.com/llm02/)
+### LLM02: [Insecure Output Handling](https://genai.owasp.org/llmrisk/llm02-insecure-output-handling/)
 - [llm-guard](https://github.com/protectai/llm-guard) ![Stars](https://img.shields.io/github/stars/protectai/llm-guard)
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ![Stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama)
 - [VibraniumDome](https://github.com/genia-dev/vibraniumdome) ![Stars](https://img.shields.io/github/stars/genia-dev/vibraniumdome)
 
-### LLM03: [Training Data Poisoning](https://llmtop10.com/llm03/)
-### LLM04: [Model Denial of Service](https://llmtop10.com/llm04/)
-### LLM05: [Supply Chain Vulnerabilities](https://llmtop10.com/llm05/)
+### LLM03: [Training Data Poisoning](https://genai.owasp.org/llmrisk/llm03-training-data-poisoning/)
+### LLM04: [Model Denial of Service](https://genai.owasp.org/llmrisk/llm04-model-denial-of-service/)
+### LLM05: [Supply Chain Vulnerabilities](https://genai.owasp.org/llmrisk/llm05-supply-chain-vulnerabilities/)
 - [modelscan](https://github.com/protectai/modelscan) ![Stars](https://img.shields.io/github/stars/protectai/modelscan)
 
-### LLM06: [Sensitive Information Disclosure](https://llmtop10.com/llm06/)
+### LLM06: [Sensitive Information Disclosure](https://genai.owasp.org/llmrisk/llm06-sensitive-information-disclosure/)
 - [fast-llm-security](https://github.com/ZenGuard-AI/fast-llm-security) ![Stars](https://img.shields.io/github/stars/ZenGuard-AI/fast-llm-security)
 - [Garak](https://github.com/leondz/garak/) ![Stars](https://img.shields.io/github/stars/leondz/garak)
 - [llm-security](https://github.com/greshake/llm-security) ![Stars](https://img.shields.io/github/stars/greshake/llm-security)
 - [plexiglass](https://github.com/safellama/plexiglass) ![Stars](https://img.shields.io/github/stars/safellama/plexiglass)
 - [VibraniumDome](https://github.com/genia-dev/vibraniumdome) ![Stars](https://img.shields.io/github/stars/genia-dev/vibraniumdome)
 
-### LLM07: [Insecure Plugin Design](https://llmtop10.com/llm07/)
-### LLM08: [Excessive Agency](https://llmtop10.com/llm08/)
-### LLM09: [Overreliance](https://llmtop10.com/llm09/)
-### LLM10: [Model Theft](https://llmtop10.com/llm10/)
+### LLM07: [Insecure Plugin Design](https://genai.owasp.org/llmrisk/llm07-insecure-plugin-design/)
+### LLM08: [Excessive Agency](https://genai.owasp.org/llmrisk/llm08-excessive-agency/)
+### LLM09: [Overreliance](https://genai.owasp.org/llmrisk/llm09-overreliance/)
+### LLM10: [Model Theft](https://genai.owasp.org/llmrisk/llm10-model-theft/)
 
 ## Resources
 - [awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) ![Stars](https://img.shields.io/github/stars/corca-ai/awesome-llm-security) -  A curation of awesome tools, documents and projects about LLM Security. 
