@@ -21,6 +21,7 @@ Curated list of Open Source project focused on LLM security
 - [promptmap](https://github.com/utkusen/promptmap) ![Stars](https://img.shields.io/github/stars/utkusen/promptmap) - automatically tests prompt injection attacks on ChatGPT instances.
 - [PyRIT](https://github.com/Azure/PyRIT) ![Stars](https://img.shields.io/github/stars/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.
 - [rebuff](https://github.com/protectai/rebuff) ![Stars](https://img.shields.io/github/stars/protectai/rebuff) - LLM Prompt Injection Detector.
+- [TrustGate](https://github.com/NeuralTrust/TrustGate) ![Stars](https://img.shields.io/github/stars/NeuralTrust/TrustGate) - LLM & Agent attacks detector - Generative Application Firewall (GAF)
 - [vibraniumdome](https://github.com/genia-dev/vibraniumdome) ![Stars](https://img.shields.io/github/stars/genia-dev/vibraniumdome) -  LLM Security Platform.
 - [vigil-llm](https://github.com/deadbits/vigil-llm) ![Stars](https://img.shields.io/github/stars/deadbits/vigil-llm) -⚡ Vigil ⚡ Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs.
 
@@ -42,6 +43,7 @@ Curated list of Open Source project focused on LLM security
 - [PyRIT](https://github.com/Azure/PyRIT) ![Stars](https://img.shields.io/github/stars/Azure/PyRIT)
 - [promptmap](https://github.com/utkusen/promptmap) ![Stars](https://img.shields.io/github/stars/utkusen/promptmap)
 - [rebuff](https://github.com/protectai/rebuff) ![Stars](https://img.shields.io/github/stars/protectai/rebuff)
+- [TrustGate](https://github.com/NeuralTrust/TrustGate) ![Stars](https://img.shields.io/github/stars/NeuralTrust/TrustGate)
 - [VibraniumDome](https://github.com/genia-dev/vibraniumdome) ![Stars](https://img.shields.io/github/stars/genia-dev/vibraniumdome)
 - [vigil-llm](https://github.com/deadbits/vigil-llm) ![Stars](https://img.shields.io/github/stars/deadbits/vigil-llm)
   
