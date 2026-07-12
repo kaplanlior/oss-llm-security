@@ -47,6 +47,7 @@ Curated list of Open Source project focused on LLM security
 - [TrustGate](https://github.com/NeuralTrust/TrustGate) ![Stars](https://img.shields.io/github/stars/NeuralTrust/TrustGate)
 - [VibraniumDome](https://github.com/genia-dev/vibraniumdome) ![Stars](https://img.shields.io/github/stars/genia-dev/vibraniumdome)
 - [vigil-llm](https://github.com/deadbits/vigil-llm) ![Stars](https://img.shields.io/github/stars/deadbits/vigil-llm)
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
   
 ### LLM02: [Insecure Output Handling](https://genai.owasp.org/llmrisk/llm02-insecure-output-handling/)
 - [llm-guard](https://github.com/protectai/llm-guard) ![Stars](https://img.shields.io/github/stars/protectai/llm-guard)
