@@ -15,7 +15,8 @@ Curated list of Open Source project focused on LLM security
 - [llm-security](https://github.com/greshake/llm-security) ![Stars](https://img.shields.io/github/stars/greshake/llm-security)  -  New ways of breaking app-integrated LLMs
 - [modelscan](https://github.com/protectai/modelscan) ![Stars](https://img.shields.io/github/stars/protectai/modelscan) - Protection against Model Serialization Attacks
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection) ![Stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection) - Prompt injection attacks and defenses in LLM-integrated applications
-- [plexiglass](https://github.com/safellama/plexiglass) ![Stars](https://img.shields.io/github/stars/safellama/plexiglass) - A toolkit for detecting and protecting against vulnerabilities in Large Language Models (LLMs). 
+- [plexiglass](https://github.com/safellama/plexiglass) ![Stars](https://img.shields.io/github/stars/safellama/plexiglass) - A toolkit for detecting and protecting against vulnerabilities in Large Language Models (LLMs).
+- [Prallax](https://github.com/agent-defense/parallax) - Runtime security engine for AI agents. Blocks prompt injection, dangerous tool calls, and secret leaks in microseconds. Single Rust binary, one YAML config, framework-agnostic.
 - [ps-fuzz](https://github.com/prompt-security/ps-fuzz) ![Stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz) - Make your GenAI Apps Safe & Secure 🚀 Test & harden your system prompt
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ![Stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama) - Set of tools to assess and improve LLM security. 
 - [promptfoo](https://github.com/promptfoo/promptfoo) ![Stars](https://img.shields.io/github/stars/promptfoo/promptfoo) - LLM red teaming and evaluation framework with modelaudit for scanning ML models for malicious code and backdoors.
@@ -39,6 +40,7 @@ Curated list of Open Source project focused on LLM security
 - [llm-security](https://github.com/dropbox/llm-security) ![Stars](https://img.shields.io/github/stars/dropbox/llm-security)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection) ![Stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection)
 - [plexiglass](https://github.com/safellama/plexiglass) ![Stars](https://img.shields.io/github/stars/safellama/plexiglass)
+- [Parallax](https://github.com/agent-defense/parallax) ![Stars](https://img.shields.io/github/stars/agent-defense/parallax)
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ![Stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama)
 - [ps-fuzz](https://github.com/prompt-security/ps-fuzz) ![Stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz)
 - [PyRIT](https://github.com/Azure/PyRIT) ![Stars](https://img.shields.io/github/stars/Azure/PyRIT)
