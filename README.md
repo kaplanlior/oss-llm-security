@@ -11,6 +11,7 @@ Curated list of Open Source project focused on LLM security
 - [langkit](https://github.com/whylabs/langkit) ![Stars](https://img.shields.io/github/stars/whylabs/langkit)- An open-source toolkit for monitoring Large Language Models (LLMs). Extracts signals from prompts & responses, ensuring safety & security.
 - [llm-attacks](https://github.com/llm-attacks/llm-attacks) ![Stars](https://img.shields.io/github/stars/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
 - [llm-guard](https://github.com/protectai/llm-guard) ![Stars](https://img.shields.io/github/stars/protectai/llm-guard) - The Security Toolkit for LLM Interactions. LLM Guard by Protect AI is a comprehensive tool designed to fortify the security of Large Language Models (LLMs).
+- [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) ![Stars](https://img.shields.io/github/stars/ArmorerLabs/Armorer-Guard) - Rust-native local scanner for AI-agent prompt injection, credential leakage, exfiltration, and risky tool-call context.
 - [llm-security](https://github.com/dropbox/llm-security) ![Stars](https://img.shields.io/github/stars/dropbox/llm-security) - Dropbox LLM Security research code and results. This repository contains scripts and related documentation that demonstrate attacks against large language models using repeated character sequences. These techniques can be used to execute prompt injection on content-constrained LLM queries.
 - [llm-security](https://github.com/greshake/llm-security) ![Stars](https://img.shields.io/github/stars/greshake/llm-security)  -  New ways of breaking app-integrated LLMs
 - [modelscan](https://github.com/protectai/modelscan) ![Stars](https://img.shields.io/github/stars/protectai/modelscan) - Protection against Model Serialization Attacks
@@ -36,6 +37,7 @@ Curated list of Open Source project focused on LLM security
 - [langkit](https://github.com/whylabs/langkit) ![Stars](https://img.shields.io/github/stars/whylabs/langkit)
 - [llm-attacks](https://github.com/llm-attacks/llm-attacks) ![Stars](https://img.shields.io/github/stars/llm-attacks/llm-attacks)
 - [llm-guard](https://github.com/protectai/llm-guard) ![Stars](https://img.shields.io/github/stars/protectai/llm-guard)
+- [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) ![Stars](https://img.shields.io/github/stars/ArmorerLabs/Armorer-Guard)
 - [llm-security](https://github.com/dropbox/llm-security) ![Stars](https://img.shields.io/github/stars/dropbox/llm-security)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection) ![Stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection)
 - [plexiglass](https://github.com/safellama/plexiglass) ![Stars](https://img.shields.io/github/stars/safellama/plexiglass)
