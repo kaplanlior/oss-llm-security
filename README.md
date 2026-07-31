@@ -4,6 +4,7 @@ Curated list of Open Source project focused on LLM security
 ## Tools / projects
 
 - [EasyJailbreak](https://github.com/EasyJailbreak/EasyJailbreak) ![Stars](https://img.shields.io/github/stars/EasyJailbreak/EasyJailbreak) - An easy-to-use Python framework to generate adversarial jailbreak prompts.
+- [APort Agent Guardrails](https://github.com/aporthq/aport-agent-guardrails) ![Stars](https://img.shields.io/github/stars/aporthq/aport-agent-guardrails) - Pre-action authorization guardrails for AI agents, checking tool calls and sensitive actions against policy before execution.
 - [fast-llm-security](https://github.com/ZenGuard-AI/fast-llm-security) ![Stars](https://img.shields.io/github/stars/ZenGuard-AI/fast-llm-security) - The fastest && easiest LLM security and privacy guardrails for GenAI apps.
 - [Garak](https://github.com/leondz/garak/) ![Stars](https://img.shields.io/github/stars/leondz/garak) -  LLM vulnerability scanner. garak checks if an LLM can be made to fail in an way we don't want. garak probes for hallucination, data leakage, prompt injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses. If you know nmap, it's nmap for LLMs.
 - [hol-guard](https://github.com/hashgraph-online/hol-guard) ![Stars](https://img.shields.io/github/stars/hashgraph-online/hol-guard) - Local-first security harness that intercepts tool calls in AI coding agents before files change or network is contacted. Pre-tool hooks, approval center, and supply-chain advisory scanning for skills, MCP servers, and plugins.
@@ -67,6 +68,7 @@ Curated list of Open Source project focused on LLM security
 
 ### LLM07: [Insecure Plugin Design](https://genai.owasp.org/llmrisk/llm07-insecure-plugin-design/)
 ### LLM08: [Excessive Agency](https://genai.owasp.org/llmrisk/llm08-excessive-agency/)
+- [APort Agent Guardrails](https://github.com/aporthq/aport-agent-guardrails) ![Stars](https://img.shields.io/github/stars/aporthq/aport-agent-guardrails)
 ### LLM09: [Overreliance](https://genai.owasp.org/llmrisk/llm09-overreliance/)
 ### LLM10: [Model Theft](https://genai.owasp.org/llmrisk/llm10-model-theft/)
 
