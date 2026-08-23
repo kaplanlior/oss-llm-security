@@ -15,6 +15,7 @@ Curated list of Open Source project focused on LLM security
 - [llm-security](https://github.com/greshake/llm-security) ![Stars](https://img.shields.io/github/stars/greshake/llm-security)  -  New ways of breaking app-integrated LLMs
 - [modelscan](https://github.com/protectai/modelscan) ![Stars](https://img.shields.io/github/stars/protectai/modelscan) - Protection against Model Serialization Attacks
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection) ![Stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection) - Prompt injection attacks and defenses in LLM-integrated applications
+- [piighost](https://github.com/Athroniaeth/piighost) ![Stars](https://img.shields.io/github/stars/Athroniaeth/piighost) - Anonymizes PII before it reaches the LLM by replacing values with placeholders and restoring them in the reply, so the provider only sees placeholders. LangChain, Pydantic AI, LlamaIndex, and an OpenAI-compatible proxy.
 - [plexiglass](https://github.com/safellama/plexiglass) ![Stars](https://img.shields.io/github/stars/safellama/plexiglass) - A toolkit for detecting and protecting against vulnerabilities in Large Language Models (LLMs). 
 - [ps-fuzz](https://github.com/prompt-security/ps-fuzz) ![Stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz) - Make your GenAI Apps Safe & Secure 🚀 Test & harden your system prompt
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) ![Stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama) - Set of tools to assess and improve LLM security. 
@@ -62,6 +63,7 @@ Curated list of Open Source project focused on LLM security
 - [fast-llm-security](https://github.com/ZenGuard-AI/fast-llm-security) ![Stars](https://img.shields.io/github/stars/ZenGuard-AI/fast-llm-security)
 - [Garak](https://github.com/leondz/garak/) ![Stars](https://img.shields.io/github/stars/leondz/garak)
 - [llm-security](https://github.com/greshake/llm-security) ![Stars](https://img.shields.io/github/stars/greshake/llm-security)
+- [piighost](https://github.com/Athroniaeth/piighost) ![Stars](https://img.shields.io/github/stars/Athroniaeth/piighost)
 - [plexiglass](https://github.com/safellama/plexiglass) ![Stars](https://img.shields.io/github/stars/safellama/plexiglass)
 - [VibraniumDome](https://github.com/genia-dev/vibraniumdome) ![Stars](https://img.shields.io/github/stars/genia-dev/vibraniumdome)
 
