@@ -3,6 +3,7 @@ Curated list of Open Source project focused on LLM security
 
 ## Tools / projects
 
+- [AgentLeak](https://github.com/yagobski/agentleak) ![Stars](https://img.shields.io/github/stars/yagobski/agentleak) - Python SDK and CLI for privacy testing across agent traces, including tool calls, inter-agent messages, memory, and logs, with redacted reports and CI gates.
 - [EasyJailbreak](https://github.com/EasyJailbreak/EasyJailbreak) ![Stars](https://img.shields.io/github/stars/EasyJailbreak/EasyJailbreak) - An easy-to-use Python framework to generate adversarial jailbreak prompts.
 - [fast-llm-security](https://github.com/ZenGuard-AI/fast-llm-security) ![Stars](https://img.shields.io/github/stars/ZenGuard-AI/fast-llm-security) - The fastest && easiest LLM security and privacy guardrails for GenAI apps.
 - [Garak](https://github.com/leondz/garak/) ![Stars](https://img.shields.io/github/stars/leondz/garak) -  LLM vulnerability scanner. garak checks if an LLM can be made to fail in an way we don't want. garak probes for hallucination, data leakage, prompt injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses. If you know nmap, it's nmap for LLMs.
