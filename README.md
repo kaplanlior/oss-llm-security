@@ -73,3 +73,4 @@ Curated list of Open Source project focused on LLM security
 ## Resources
 - [awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) ![Stars](https://img.shields.io/github/stars/corca-ai/awesome-llm-security) -  A curation of awesome tools, documents and projects about LLM Security. 
 - [llm-security](https://github.com/llmsecnet/llmsec-site) ![Stars](https://img.shields.io/github/stars/llmsecnet/llmsec-site) - https://llmsecurity.net/ - large language model security content - research, papers, and news
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) ![Stars](https://img.shields.io/github/stars/Continuum-AI-Corp/Orca-AI-Incident-Archive) - Open database of real-world AI agent security incidents (prompt injection, MCP, agent supply chain). Each record cites a primary source; JSON/CSV exports.
