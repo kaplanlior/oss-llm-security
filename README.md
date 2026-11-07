@@ -29,6 +29,7 @@ Curated list of Open Source project focused on LLM security
 ## By [OWASP Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/)
 
 ### LLM01: [Prompt Injection](https://genai.owasp.org/llmrisk/llm01-prompt-injection/)
+- [dsh-jailbreak](https://github.com/xqpsec/dsh-jailbreak) ![Stars](https://img.shields.io/github/stars/xqpsec/dsh-jailbreak)
 - [EasyJailbreak](https://github.com/EasyJailbreak/EasyJailbreak) ![Stars](https://img.shields.io/github/stars/EasyJailbreak/EasyJailbreak)
 - [fast-llm-security](https://github.com/ZenGuard-AI/fast-llm-security) ![Stars](https://img.shields.io/github/stars/ZenGuard-AI/fast-llm-security)
 - [Garak](https://github.com/leondz/garak/) ![Stars](https://img.shields.io/github/stars/leondz/garak)
