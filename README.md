@@ -25,6 +25,7 @@ Curated list of Open Source project focused on LLM security
 - [TrustGate](https://github.com/NeuralTrust/TrustGate) ![Stars](https://img.shields.io/github/stars/NeuralTrust/TrustGate) - LLM & Agent attacks detector - Generative Application Firewall (GAF)
 - [vibraniumdome](https://github.com/genia-dev/vibraniumdome) ![Stars](https://img.shields.io/github/stars/genia-dev/vibraniumdome) -  LLM Security Platform.
 - [vigil-llm](https://github.com/deadbits/vigil-llm) ![Stars](https://img.shields.io/github/stars/deadbits/vigil-llm) -⚡ Vigil ⚡ Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs.
+- [Memory Poisoning Lab](https://github.com/RishabhPande/memory-poison-lab) - Local teaching range for persistent-memory poisoning, provenance and conflict-scoped repair across reference, ChromaDB and sqlite-vec stores.
 
 ## By [OWASP Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/)
 
